@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unplug</string>
+    <string name="accessibility_description">Unplug uses this service to see which app is open and to notice the volume keys. During a focus session it blocks everything except Phone, WhatsApp and the apps you allow, closes the power menu, and opens emergency unlock when both volume keys are held for 5 seconds. Any time, it applies your daily app limits and pauses. It also opens the notification shade when you swipe down on the home screen. Window content is never read. Nothing is collected, stored, or sent anywhere — the app has no internet access.</string>
+    <string name="widget_description">Focus countdown and today\'s focused time</string>
+</resources>
